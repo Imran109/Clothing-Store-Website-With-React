@@ -16,7 +16,7 @@ Check out the code section for all the code files.
 
 
 ## Home Screen
-![](images/HomeScreen.png)
+![](images/Homescreen.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
