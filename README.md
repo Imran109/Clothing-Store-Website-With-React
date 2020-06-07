@@ -14,6 +14,25 @@ Babel
 ## Code
 Check out the code section for all the code files.
 
+## Run Locally
+
+
+- git clone https://github.com/Imran109/Clothing-Store-Website-With-React.git
+
+- cd Clothing-Store-Website-With-React
+
+- Run Backend
+  - npm install
+  - npm start
+  
+- Run Frontend
+  - open new terminal
+  - cd frontend
+  - npm install
+  - npm start
+
+Let me know if you have any questions. [Email Mohamed Imran P S](mailto:mohamedimranps@gmail.com)
+
 
 ## Home Screen
 ![](images/Homescreen.png)
