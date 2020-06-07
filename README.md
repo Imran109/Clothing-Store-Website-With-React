@@ -18,6 +18,15 @@ Check out the code section for all the code files.
 ## Home Screen
 ![](images/Homescreen.png)
 
+## Product Screen
+![](images/ProductDetails.png)
+
+## Place Order Screen
+![](images/PlaceOrderScreen.png)
+
+## Admin Screen
+![](images/AdminEditProductScreen.png)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
