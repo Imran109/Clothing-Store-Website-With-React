@@ -49,7 +49,7 @@ router.get("/createadmin", async (req , res) =>{
         const user = new User({
             name: "Mohamed Imran",
             email: "mohamedimran@gmail.com",
-            password: "Airtel@123",
+            password: "new_password",
             isAdmin : true
         });
         const newUser = await user.save();
